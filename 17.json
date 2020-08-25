@@ -1,0 +1,871 @@
+{
+  "crs" : null,
+  "bbox" : [ 19.195968627929688, 47.436309814453125, 19.33492660522461, 47.51542282104492 ],
+  "features" : [ {
+    "crs" : null,
+    "bbox" : null,
+    "properties" : {
+      "boundary" : "administrative",
+      "alt_name" : "Rákosmente",
+      "name:de" : "XVII. Bezirk",
+      "admin_level" : "9",
+      "name" : "XVII. kerület",
+      "name:en" : "17th district",
+      "short_name" : "17. kerület",
+      "wikipedia" : "hu:Budapest XVII. kerülete",
+      "type" : "boundary",
+      "wikidata" : "Q851045"
+    },
+    "geometry" : {
+      "crs" : null,
+      "bbox" : null,
+      "coordinates" : [ [ {
+        "longitude" : 19.21652603149414,
+        "latitude" : 47.48566818237305,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.216468811035156,
+        "latitude" : 47.48548126220703,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.216121673583984,
+        "latitude" : 47.48503112792969,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21607780456543,
+        "latitude" : 47.48491287231445,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.216014862060547,
+        "latitude" : 47.48482894897461,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.214330673217773,
+        "latitude" : 47.4830436706543,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21261978149414,
+        "latitude" : 47.481178283691406,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21190071105957,
+        "latitude" : 47.48038864135742,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.211748123168945,
+        "latitude" : 47.48023986816406,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21143913269043,
+        "latitude" : 47.479984283447266,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.211307525634766,
+        "latitude" : 47.47987365722656,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.211158752441406,
+        "latitude" : 47.4797477722168,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21088981628418,
+        "latitude" : 47.479522705078125,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.209365844726562,
+        "latitude" : 47.47783279418945,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.207759857177734,
+        "latitude" : 47.47604751586914,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.207721710205078,
+        "latitude" : 47.47600555419922,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.207210540771484,
+        "latitude" : 47.475379943847656,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.20681381225586,
+        "latitude" : 47.47492980957031,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.20257568359375,
+        "latitude" : 47.47011184692383,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.19916534423828,
+        "latitude" : 47.46638870239258,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.198945999145508,
+        "latitude" : 47.466148376464844,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.195968627929688,
+        "latitude" : 47.46284484863281,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.197879791259766,
+        "latitude" : 47.46200180053711,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.19814682006836,
+        "latitude" : 47.461883544921875,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.20578384399414,
+        "latitude" : 47.45849609375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.205829620361328,
+        "latitude" : 47.458473205566406,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.206350326538086,
+        "latitude" : 47.45859909057617,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.206867218017578,
+        "latitude" : 47.458702087402344,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.2073917388916,
+        "latitude" : 47.458744049072266,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.207902908325195,
+        "latitude" : 47.45876693725586,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.208364486694336,
+        "latitude" : 47.45876693725586,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.208980560302734,
+        "latitude" : 47.458740234375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.20952033996582,
+        "latitude" : 47.458648681640625,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.209962844848633,
+        "latitude" : 47.45853805541992,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.210477828979492,
+        "latitude" : 47.45836639404297,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.210779190063477,
+        "latitude" : 47.45826721191406,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21129608154297,
+        "latitude" : 47.45804977416992,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.211824417114258,
+        "latitude" : 47.45777893066406,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.212644577026367,
+        "latitude" : 47.45734405517578,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.213335037231445,
+        "latitude" : 47.45697021484375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21481704711914,
+        "latitude" : 47.456146240234375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.215932846069336,
+        "latitude" : 47.45553970336914,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.217243194580078,
+        "latitude" : 47.4548454284668,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.218364715576172,
+        "latitude" : 47.45424270629883,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.220048904418945,
+        "latitude" : 47.45332717895508,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.220300674438477,
+        "latitude" : 47.45317840576172,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.22212791442871,
+        "latitude" : 47.45219802856445,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.224348068237305,
+        "latitude" : 47.45098114013672,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.225366592407227,
+        "latitude" : 47.45042419433594,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.22484588623047,
+        "latitude" : 47.45010757446289,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.226524353027344,
+        "latitude" : 47.449344635009766,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.22764778137207,
+        "latitude" : 47.4489631652832,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.22820281982422,
+        "latitude" : 47.448577880859375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.234941482543945,
+        "latitude" : 47.44742965698242,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.2371883392334,
+        "latitude" : 47.45008850097656,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.24504852294922,
+        "latitude" : 47.448936462402344,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.24616050720215,
+        "latitude" : 47.44778823852539,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.24672508239746,
+        "latitude" : 47.44740676879883,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.247844696044922,
+        "latitude" : 47.4466438293457,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.24896240234375,
+        "latitude" : 47.44511795043945,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.25174903869629,
+        "latitude" : 47.44016647338867,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.255674362182617,
+        "latitude" : 47.43977737426758,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.257919311523438,
+        "latitude" : 47.439395904541016,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.261844635009766,
+        "latitude" : 47.43862533569336,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.265769958496094,
+        "latitude" : 47.438232421875,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.280899047851562,
+        "latitude" : 47.436309814453125,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.281198501586914,
+        "latitude" : 47.436737060546875,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.285232543945312,
+        "latitude" : 47.44186782836914,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.287124633789062,
+        "latitude" : 47.444271087646484,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.28893280029297,
+        "latitude" : 47.446937561035156,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.292282104492188,
+        "latitude" : 47.45064163208008,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.296167373657227,
+        "latitude" : 47.453739166259766,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.298372268676758,
+        "latitude" : 47.45522689819336,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.298681259155273,
+        "latitude" : 47.45543670654297,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.30006980895996,
+        "latitude" : 47.45637130737305,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.3012638092041,
+        "latitude" : 47.457176208496094,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.302886962890625,
+        "latitude" : 47.45716857910156,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.30558967590332,
+        "latitude" : 47.45648193359375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.3059024810791,
+        "latitude" : 47.456302642822266,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.306325912475586,
+        "latitude" : 47.45623779296875,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.31246566772461,
+        "latitude" : 47.457000732421875,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.313404083251953,
+        "latitude" : 47.45707321166992,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.321096420288086,
+        "latitude" : 47.45912170410156,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.322023391723633,
+        "latitude" : 47.45921325683594,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.330411911010742,
+        "latitude" : 47.45979309082031,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.33492660522461,
+        "latitude" : 47.46321105957031,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.33431625366211,
+        "latitude" : 47.4638557434082,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.33345603942871,
+        "latitude" : 47.46477127075195,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.33106231689453,
+        "latitude" : 47.46747970581055,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.330434799194336,
+        "latitude" : 47.4700813293457,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.330490112304688,
+        "latitude" : 47.47278594970703,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.329822540283203,
+        "latitude" : 47.47767639160156,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.327199935913086,
+        "latitude" : 47.48112869262695,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.326040267944336,
+        "latitude" : 47.481651306152344,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.322660446166992,
+        "latitude" : 47.484188079833984,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.318279266357422,
+        "latitude" : 47.48843765258789,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.318195343017578,
+        "latitude" : 47.489158630371094,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.316383361816406,
+        "latitude" : 47.49042510986328,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.31525421142578,
+        "latitude" : 47.491424560546875,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.314218521118164,
+        "latitude" : 47.493038177490234,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.314123153686523,
+        "latitude" : 47.493919372558594,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.313961029052734,
+        "latitude" : 47.49547576904297,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.313894271850586,
+        "latitude" : 47.49611282348633,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.313682556152344,
+        "latitude" : 47.498111724853516,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.3142147064209,
+        "latitude" : 47.50303649902344,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.318099975585938,
+        "latitude" : 47.50749206542969,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.321096420288086,
+        "latitude" : 47.51044845581055,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.32008171081543,
+        "latitude" : 47.51213455200195,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.31995391845703,
+        "latitude" : 47.51228332519531,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.319456100463867,
+        "latitude" : 47.51323318481445,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.318904876708984,
+        "latitude" : 47.51417541503906,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.31861686706543,
+        "latitude" : 47.51493835449219,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.318565368652344,
+        "latitude" : 47.5151481628418,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.3185977935791,
+        "latitude" : 47.515289306640625,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.318695068359375,
+        "latitude" : 47.51542282104492,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.309648513793945,
+        "latitude" : 47.51414108276367,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.30895233154297,
+        "latitude" : 47.5140380859375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.30843162536621,
+        "latitude" : 47.513858795166016,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.306568145751953,
+        "latitude" : 47.51346206665039,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.30422019958496,
+        "latitude" : 47.512962341308594,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.30390739440918,
+        "latitude" : 47.51290512084961,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.303651809692383,
+        "latitude" : 47.51288604736328,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.303394317626953,
+        "latitude" : 47.51285934448242,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.30301284790039,
+        "latitude" : 47.51275634765625,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.301448822021484,
+        "latitude" : 47.512386322021484,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.301294326782227,
+        "latitude" : 47.51236343383789,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.301097869873047,
+        "latitude" : 47.512332916259766,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.300785064697266,
+        "latitude" : 47.51226806640625,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.300451278686523,
+        "latitude" : 47.51218032836914,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.30004119873047,
+        "latitude" : 47.512088775634766,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.2999267578125,
+        "latitude" : 47.51206970214844,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.299776077270508,
+        "latitude" : 47.512054443359375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.299591064453125,
+        "latitude" : 47.51200485229492,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.299449920654297,
+        "latitude" : 47.51195526123047,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.299314498901367,
+        "latitude" : 47.51191329956055,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.296401977539062,
+        "latitude" : 47.51127624511719,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.29120445251465,
+        "latitude" : 47.510623931884766,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.289928436279297,
+        "latitude" : 47.51056671142578,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.28562355041504,
+        "latitude" : 47.51081466674805,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.284011840820312,
+        "latitude" : 47.51091003417969,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.280136108398438,
+        "latitude" : 47.51055145263672,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.270578384399414,
+        "latitude" : 47.5090446472168,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.26726722717285,
+        "latitude" : 47.509037017822266,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.263816833496094,
+        "latitude" : 47.5082893371582,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.261558532714844,
+        "latitude" : 47.5079231262207,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.253690719604492,
+        "latitude" : 47.50717544555664,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.25368881225586,
+        "latitude" : 47.50679397583008,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.248619079589844,
+        "latitude" : 47.50337600708008,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.239185333251953,
+        "latitude" : 47.498741149902344,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.23855209350586,
+        "latitude" : 47.498626708984375,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.237863540649414,
+        "latitude" : 47.49848937988281,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.23732566833496,
+        "latitude" : 47.49831008911133,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.2352237701416,
+        "latitude" : 47.49750518798828,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.231565475463867,
+        "latitude" : 47.496097564697266,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.223119735717773,
+        "latitude" : 47.49287796020508,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.221654891967773,
+        "latitude" : 47.4923210144043,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.221220016479492,
+        "latitude" : 47.49177932739258,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.22080421447754,
+        "latitude" : 47.49081802368164,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.220218658447266,
+        "latitude" : 47.48991394042969,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.22011375427246,
+        "latitude" : 47.489768981933594,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.219629287719727,
+        "latitude" : 47.489131927490234,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.219507217407227,
+        "latitude" : 47.488956451416016,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21894073486328,
+        "latitude" : 47.488197326660156,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21882438659668,
+        "latitude" : 47.48808288574219,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.218271255493164,
+        "latitude" : 47.48750686645508,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.216882705688477,
+        "latitude" : 47.486183166503906,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21686363220215,
+        "latitude" : 47.486148834228516,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.216867446899414,
+        "latitude" : 47.48611831665039,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      }, {
+        "longitude" : 19.21652603149414,
+        "latitude" : 47.48566818237305,
+        "altitude" : "NaN",
+        "additionalElements" : [ ]
+      } ] ]
+    },
+    "id" : null
+  } ]
+}
